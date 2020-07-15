@@ -1,1 +1,7 @@
 .vscode
+config.*
+*.env
+*.log
+*.txt
+*.xlsx
+*.xml
